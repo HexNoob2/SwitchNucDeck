@@ -1,19 +1,18 @@
-![Alt text](Title.jpg "NucDeck")
+This is a fork to use switch JoyCons and original rails.
+
+Currently no battery support,  may add either 18650 or 21700 grips under the switch joycons; possibly a drill battery rail on the rear.  May just play it with a tether as well.  Plan to use RC "beeper" style battery SOC.  Just stop playing it when the cells hit 3.2 or 3.0V 
+
+It is by nature going to be very hacky, enjoy!
+
+
+
+Original project notes (some or all no longer applicable):
 
 # NucDeck
-The Open Source DIY Handheld Gaming PC!
+The Open Source DIY Switch JoyCon Handheld Gaming PC!
 
- --- WARNING - PCB's and software incomplete. Begin at your own risk! ---
+ --- WARNING - incomplete. Begin at your own risk! ---
 
-Refer to "NucDeck Assembly Instructions.PDF" for mechanical assembly details. Information for the electronics will be added once the controller PCB's are complete.
-
-There are two different versions of the housing, Standard and NoRGB. The NoRGB version has had
-the RGB joystick surrounds removed to simplify printing. If you choose the NoRGB version you can leave all of the 
-associated components off the PCB's to save on cost.
-
-There are two different versions of the buttons, membrane and clicky. The Membrane buttons are shorter and are
-designed to be used with silicone membranes. I've included files for molds to make the membranes. If you have a resin printer
-I encourage you to give this a try as it improves the feel of the buttons dramatically. FDM printers will struggle to produce the accuracy required to make these parts. The clicky version is slightly taller and can be used without the membranes.
 
 #### Project Status
 - [x] 3D Files
@@ -55,8 +54,8 @@ https://www.aliexpress.com/item/1005002490383977.html
 
 #### Joysticks
 
-Joysticks are an Alps RKJX21224001. Here's a cheap seller on aliexpress:
-https://www.aliexpress.com/item/1005005264696228.html
+##Joysticks are an Alps RKJX21224001. Here's a cheap seller on aliexpress:
+##https://www.aliexpress.com/item/1005005264696228.html
 Joystick caps are Xbox One compatible.
 
 #### Batteries
